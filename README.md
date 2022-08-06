@@ -11,7 +11,7 @@
 Web development <br/><br/>
 
 ### Latest Projects
-watching youtube
+To be continued
 
 ### Languages and Tools
 
