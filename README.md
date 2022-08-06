@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KIM%20HEEJUNG&fontSize=90)
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Heejung, Developer from :kr: Seoul, Republic of Korea 
+### I am Heejung, Datascientist  from :kr: Seoul, Republic of Korea 
 
 ### About me
 
